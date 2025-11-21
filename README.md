@@ -1,1 +1,0 @@
-This is genesis. A Emulator and Flash player that can run of of one .html file. Do not use down.html as it will show a black screen. This is not made by me and is on here to promote it. Made by Martez Hicks brothers friend.
